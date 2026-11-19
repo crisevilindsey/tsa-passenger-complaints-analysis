@@ -20,7 +20,7 @@ The goal is to help identify airports and complaint areas that may warrant furth
 **Project Type:** Operational Analytics and Data Visualization  
 **Primary Tool:** Microsoft Power BI  
 **Deliverable:** Interactive Power BI Dashboard  
-**Repository:** [tsa-passenger-complaints-analysis](https://github.com/crisevilindsey/tsa-passenger-complaints-analysis)
+**Repository:** tsa-passenger-complaints-analysis
 
 ## Business Problem
 
